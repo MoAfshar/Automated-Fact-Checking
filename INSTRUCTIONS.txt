@@ -1,0 +1,6 @@
+INSTRUCTIONS OF USE: 
+- Final Report can be found in the final report directory
+- All the CSV files can be found in the relevant directories 2 and 3  
+- The code is submitted as a jupyter file where each block is seperated by each question 
+- Each code block will contain both the results output and the implementation of the code
+- To run the code the paths in the implementation need to be changed 
